@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 a = 1
 //master
 
@@ -12,4 +13,7 @@ a = 1
 =======
 
 //github
+>>>>>>> dev
+=======
+changed in dev
 >>>>>>> dev
